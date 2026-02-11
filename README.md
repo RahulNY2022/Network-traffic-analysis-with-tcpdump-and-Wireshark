@@ -3,7 +3,7 @@
 ## Lab Overview
 This hands-on lab provides deep-dive exercises in network traffic analysis using industry-standard tools. You'll learn to capture, analyze, and interpret network data crucial for security detection and incident response.
 
-**Duration:** 4-6 hours  
+ 
 **Difficulty:** Intermediate to Advanced  
 **Prerequisites:** Basic networking knowledge (TCP/IP, protocols), Linux command line familiarity
 
@@ -24,10 +24,10 @@ By completing this lab, you will:
 
 ### Required Tools
 - Linux system (Ubuntu 20.04+ recommended) or macOS
-- tcpdump (pre-installed on most systems)
+- tcpdump 
 - Wireshark (download from wireshark.org)
 - AWS CLI (for VPC Flow Logs section)
-- Sample PCAP files (provided in exercises)
+- Sample PCAP files 
 
 ### Verification
 ```bash
