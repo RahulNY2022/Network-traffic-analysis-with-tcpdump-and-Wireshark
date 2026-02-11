@@ -1120,11 +1120,11 @@ sudo tcpdump -i eth0 -w baseline-$(date +%Y%m%d).pcap -G 86400 -W 7
 
 Network analysis is fundamental to security detection and response. By mastering tcpdump for packet capture, Wireshark for deep protocol analysis, and AWS VPC Flow Logs for cloud visibility, you've built a comprehensive toolkit for investigating security incidents and hunting threats.
 
-Remember:
+Lessons Learned:
 - **Defense in depth:** Use multiple tools and data sources
 - **Baseline first:** Understand normal before detecting abnormal
 - **Automate detection:** Build rules and alerts based on patterns
 - **Document everything:** Create playbooks and procedures
 - **Keep learning:** Threat landscape constantly evolves
 
-Continue practicing with real-world scenarios and capture files to sharpen your skills!
+
